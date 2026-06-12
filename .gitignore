@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+generated/
+api_keys.py
+secrets.py
