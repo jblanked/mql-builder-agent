@@ -5,7 +5,7 @@
 
 2. Load relevant MetaTrader context
    - Tool: read_context
-   - Args: resources such as style.md plus relevant domain files like trade.md, risk-management.md, indicator.md, expert-advisor.md, script.md, chart.md, terminal.md, strategies.md, object.md.
+   - Args: resources such as style.md plus relevant domain files like trade.md, risk-management.md, indicator.md, expert-advisor.md, script.md, chart.md, terminal.md, strategies.md, object.md, and platform.md
    - Look for: syntax, event flow, and version-specific guidance.
 
 3. Plan the implementation

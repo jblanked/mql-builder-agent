@@ -57,6 +57,12 @@ def object_ctx():
     """Read the object context file."""
     with open("context/object.md", "r", encoding="utf-8") as f:
         return f.read()
+    
+@mcp.resource("context://platform")
+def platform():
+    """Read the platform context file."""
+    with open("context/platform.md", "r", encoding="utf-8") as f:
+        return f.read()
 
 
 @mcp.resource("context://indicator")
