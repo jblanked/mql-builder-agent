@@ -4,3 +4,4 @@ __pycache__/
 generated/
 api_keys.py
 secrets.py
+.DS_Store
